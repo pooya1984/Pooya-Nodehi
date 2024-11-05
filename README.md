@@ -1,5 +1,7 @@
 # Hello, my name is **Pooya-Nodehi**
+
  +++
+	
 # ABOUT ME
 I am a passionate and dedicated software developer with strong experience in web development, 
 UI/UX design, and a keen ability to quickly learn and adapt to new technologies. 
@@ -7,12 +9,16 @@ With a solid foundation in creating visually appealing and user-friendly interfa
 My focus on continuous improvement drives me to stay at the forefront of industry trends and tackle new challenges with enthusiasm. 
 A fast learner with a strong work ethic, I thrive in dynamic environments and am always eager to explore emerging technologies. 
 Whether developing high-performance web applications or crafting intuitive designs, I am committed to delivering high-quality results while contributing to innovative and impactful projects.
+
 +++
+
 #SKILLS
 ** WEB DEVELOPING : Javascript (ES6+) | HTML, CSS, Bootstrap, ...
 ** FRAME WORK : React.js | Node.js | Ionic-React
 ** UI/UX : Figma, Adobe XD, Adobe CC (Photoshop, Illustrator, Indesign)
+
 +++
+
 #PROJECT
 I have actively contributed to a wide range of projects that span UI/UX design, front-end development, and graphic design. My experience includes collaborating with multidisciplinary teams to create user-centered digital experiences across various platforms.
 In UI/UX Design, I have been involved in the entire design process, from initial research and wireframing to prototyping and usability testing. I focus on creating intuitive interfaces that are not only aesthetically pleasing but also functionally effective, ensuring seamless user journeys.
